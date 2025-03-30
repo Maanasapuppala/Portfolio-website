@@ -1,0 +1,19 @@
+[
+    {
+      "title": "To Do Application",
+      "imageSrc": "projects/project.png",
+      "description": "Create a simple to-do application using HTML for structure, CSS for styling, and JavaScript for adding, deleting, and managing tasks dynamically",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio website",
+      "imageSrc": "projects/project.png",
+      "description": "Build a modern and responsive portfolio website using ReactJS to showcase your projects, skills, and experience with dynamic components and smooth navigation.",
+      "skills": ["React js"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+   
+  ]
